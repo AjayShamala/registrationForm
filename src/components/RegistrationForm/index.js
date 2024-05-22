@@ -3,7 +3,7 @@ import './index.css'
 class RegistrationForm extends Component {
   state = {
     firstName: '',
-    lastName: '',
+    secondName: '',
     firstNameError: false,
     secondNameError: false,
     isFormSubmitted: false,
